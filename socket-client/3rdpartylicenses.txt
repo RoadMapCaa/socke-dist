@@ -93,6 +93,9 @@ MIT
 ngx-bootstrap/pagination
 MIT
 
+ngx-bootstrap/popover
+MIT
+
 ngx-bootstrap/positioning
 MIT
 
