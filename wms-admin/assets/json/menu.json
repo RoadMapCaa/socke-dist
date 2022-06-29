@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Mantenimiento",
+    "icon": "settings-2-outline",
+    "children": [
+      {
+        "title": "Sedes",
+        "link": "/pages/mantenimiento/sedes"
+      },
+      {
+        "title": "Usuarios",
+        "link": "/pages/mantenimiento/usuarios"
+      }
+    ]
+  },
+  {
+    "title": "Control",
+    "icon": "car-outline",
+    "children": [
+      {
+        "title": "Registros",
+        "link": "/pages/control/registros"
+      },
+      {
+        "title": "Bahias",
+        "link": "/pages/control/bahias"
+      },
+      {
+        "title": "Montacargas",
+        "link": "/pages/control/montacargas"
+      },
+      {
+        "title": "Camiones",
+        "link": "/pages/control/camiones"
+      },
+      {
+        "title": "Tipos de camión",
+        "link": "/pages/control/tipos-camiones"
+      }
+    ]
+  },
+  {
+    "title": "Sorting",
+    "icon": "cube-outline",
+    "children": [
+      {
+        "title": "Categorias",
+        "link": "/pages/sorting/categorias"
+      },
+      {
+        "title": "Tipo de envase",
+        "link": "/pages/sorting/tipo-envase"
+      },
+      {
+        "title": "Tipo revisión",
+        "link": "/pages/sorting/tipo-revision"
+      },
+      {
+        "title": "BK-Placas",
+        "link": "/pages/sorting/bk"
+      },
+      {
+        "title": "Descargar excel",
+        "link": "/pages/sorting/descargar-excel"
+      }
+    ]
+  },
+  {
+    "title": "Picking",
+    "icon": "activity-outline",
+    "children": [
+      {
+        "title": "Importar excel",
+        "link": "/pages/picking/importar-excel"
+      },
+      {
+        "title": "Descargar excel",
+        "link": "/pages/picking/descargar-excel"
+      }
+    ]
+  }
+]
